@@ -20,7 +20,7 @@ O jogo em si, é uma aplicação web muito simples, destinada a sortear os inter
 
 ## Como Jogar ##
 
-1. Acesse agora o [Link](vercel.com/ravgaspar) para utilizado.
+1. Acesse agora o [Link](https://github.com/ravgaspar/Projeto-Amigo-Secreto-Alura) para utilizado.
 2. Digite o nome de um amigo participante no campo de entrada e clique no botão "ADICIONAR" ou clique no botão "ENTER".
 3. Clique no botão "Sortear amigo" para sortear um amigo secreto.
 4. Caso venha a sortear o seu próprio nome, clique no botão voltar e refaça o sorteio.
