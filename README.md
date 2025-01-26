@@ -2,7 +2,7 @@
 Um projeto proposto pela Alura + Oracle.
 
 
-![Screenshot of Amigo Secreto](./assets/amigo-secreto-desktop.png)
+
 
 ## Sobre ##
 Seja muito bem vindo! Rafael Gaspar aqui!
